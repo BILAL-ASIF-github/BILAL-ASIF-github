@@ -20,6 +20,13 @@ I work at the intersection of **tech, creativity, and business** — delivering 
 
 ---
 
+## 🛠️ Tech Stack  
+- **Languages**: C++, Python, JavaScript  
+- **Tools & Platforms**: GitHub, Google Sheets, Cisco Packet Tracer, Webots, Tinkercad, WordPress  
+- **Domains**: OOP, Networking, IoT, AI, Marketing, Social Media  
+
+---
+
 ## 📌 Featured Projects  
 - 🕹️ **Dungeon Adventure System** – Python OOP-based semester project  
 - 🎵 **MUZED** – Mood-based music streaming app concept  
@@ -54,13 +61,6 @@ I work at the intersection of **tech, creativity, and business** — delivering 
 
 ---
 
-## 📊 GitHub Stats  
-
-![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalasif&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalasif&layout=compact&theme=radical)  
-
----
-
 ## 📫 Connect with Me  
 - 📷 Instagram – **billallasif**  
 - 🌐 Building **Per Aspera**, a multi-services tech company  
@@ -68,3 +68,4 @@ I work at the intersection of **tech, creativity, and business** — delivering 
 ---
 
 ⚡ *Curious, passionate, and a multi-tasker who loves to build, learn, and grow every single day.*  
+
