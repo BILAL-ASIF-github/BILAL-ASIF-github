@@ -38,15 +38,6 @@ I work at the intersection of **tech, creativity, and business** — delivering 
 
 ---
 
-## 🎯 Experience & Roles  
-- 👨‍💼 Founder of **BA. MARKETINGS** – leading a team of 5+ specialists, 500+ projects completed  
-- 📢 Marketing Team Member at **NASTP, NIIT, Air University**  
-- 🌍 Remote Intern at **Enlightened World** – marketing & brand management  
-- 🎯 Intern at **Bajo** – worked with **SLAP Ice Cream** and JC Buckman  
-- ❤️ Volunteer at **Asbuniyad NGO** – media and documentary work  
-
----
-
 ## 🏆 Highlights  
 - ✅ Level 2 Freelancer on Fiverr and active on Upwork  
 - 🌍 Completed projects for **200+ international clients**  
