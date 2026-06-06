@@ -1,13 +1,12 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Bilal%20Asif&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20%7C%20Digital%20Marketing%20Specialist%20%7C%20CS%20Student&descAlignY=55&descSize=16"/>
+<!-- ─── HEADER WAVE ─── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Bilal%20Asif&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20Digital%20Marketing%20Specialist%20%7C%20CS%20Student&descAlignY=58&descSize=16" />
 
-<!-- Profile Views + Social Badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=BILAL-ASIF-github&label=Profile%20Views&color=6366f1&style=for-the-badge)](https://github.com/BILAL-ASIF-github)
+<!-- ─── SOCIAL BADGES ─── -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-billallasif-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/billallasif)
-[![Portfolio](https://img.shields.io/badge/Portfolio-billallasif.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://billallasif.vercel.app)
-[![Email](https://img.shields.io/badge/Email-bbasif1234@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbasif1234@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-billallasif.vercel.app-7c6af7?style=for-the-badge&logo=vercel&logoColor=white)](https://billallasif.vercel.app)
+[![Email](https://img.shields.io/badge/Email-bbasif1234%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbasif1234@gmail.com)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Level%202%20Seller-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com)
 
 </div>
@@ -20,21 +19,31 @@
 class BilalAsif:
     def __init__(self):
         self.name       = "Muhammad Bilal Asif"
-        self.role       = ["AI/ML Engineer", "Digital Marketing Specialist", "Graphics Designer"]
+        self.role       = ["AI/ML Engineer", "Digital Marketer", "Graphics Designer"]
         self.university = "Air University — NASTP IIT, Lahore (2024–Present)"
-        self.gpa        = "3.44 / 4.0"
-        self.experience = "4+ years freelancing (200+ international clients)"
-        self.location   = "Lahore, Pakistan 🇵🇰"
-        self.contact    = "bbasif1234@gmail.com | +92 342 4390904"
-        self.building   = "Per Aspera — a multi-services tech company 🚀"
+        self.gpa        = 3.44 / 4.0
+        self.clients    = "200+ international"
+        self.building   = "Per Aspera — multi-services tech company 🚀"
+        self.contact    = "bbasif1234@gmail.com"
 
     def summary(self):
-        return """
-        Results-driven engineer combining deep ML expertise (PyTorch, TensorFlow,
-        OpenCV, LLMs, GenAI) with 4+ years of real-world freelance impact in digital
-        marketing, analytics automation, and brand design. Thrives at the intersection
-        of tech, creativity, and business.
-        """
+        return {
+            "expertise":   ["PyTorch", "LLMs", "GenAI", "Computer Vision"],
+            "experience":  "4+ years freelancing",
+            "focus":       "tech × creativity × business",
+        }
+
+    def currently_learning(self):
+        return [
+            "Advanced LLMs & Prompt Engineering",
+            "MLOps & Model Deployment",
+            "Full-Stack AI Applications",
+            "GANs & Image Synthesis",
+        ]
+
+# Instantiate
+bilal = BilalAsif()
+print(bilal.summary())
 ```
 
 ---
@@ -49,6 +58,7 @@ class BilalAsif:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 
 ### 📊 Data & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -85,7 +95,7 @@ class BilalAsif:
 <td width="50%" valign="top">
 
 ### 🎭 Sketch-to-Face Image Synthesis
-Deep learning model using **pix2pix & StyleGAN2** to generate realistic faces from sketches. Trained on the CelebA dataset with a complete preprocessing + training pipeline.
+Deep learning pipeline using **pix2pix & StyleGAN2** to generate photorealistic faces from hand-drawn sketches. Trained on the CelebA dataset with a complete preprocessing and evaluation pipeline.
 
 `PyTorch` `pix2pix` `StyleGAN2` `OpenCV` `Seaborn` `TensorBoard` `Kaggle API`
 
@@ -93,9 +103,9 @@ Deep learning model using **pix2pix & StyleGAN2** to generate realistic faces fr
 <td width="50%" valign="top">
 
 ### 🔍 Crime Case Solvability Predictor
-ML pipeline predicting crime solvability from **~600K real-world records**. Full EDA + classification models evaluated on Accuracy, Precision, Recall, and F1-score.
+ML pipeline predicting crime solvability from **~600K real-world records**. Full EDA with classification models evaluated on Accuracy, Precision, Recall, and F1-score.
 
-`Scikit-learn` `Pandas` `Matplotlib` `Seaborn` `Logistic Regression` `Random Forest`
+`scikit-learn` `Pandas` `Matplotlib` `Seaborn` `Logistic Regression` `Random Forest`
 
 </td>
 </tr>
@@ -103,7 +113,7 @@ ML pipeline predicting crime solvability from **~600K real-world records**. Full
 <td width="50%" valign="top">
 
 ### 🤲 Gesture-Based Snake Game
-Real-time hand-tracking Snake game using **MediaPipe & OpenCV** — full gameplay and menu navigation via live gesture recognition. No keyboard needed.
+Real-time hand-tracking Snake game using **MediaPipe & OpenCV** — full gameplay and menu navigation via live gesture recognition. Zero keyboard required.
 
 `Python` `Pygame` `MediaPipe` `OpenCV` `NumPy`
 
@@ -111,7 +121,7 @@ Real-time hand-tracking Snake game using **MediaPipe & OpenCV** — full gamepla
 <td width="50%" valign="top">
 
 ### 🔄 Swapverse
-Gen Z-focused **peer-to-peer freelance & skill exchange platform**. Full SDLC with scalable microservices architecture, AI-driven matching, and blockchain integration.
+Gen Z-focused **peer-to-peer freelance & skill-exchange platform**. Full SDLC with scalable microservices architecture, AI-driven matching engine, and blockchain integration.
 
 `Microservices` `AI Matching` `Blockchain` `SDLC` `Software Engineering`
 
@@ -121,7 +131,7 @@ Gen Z-focused **peer-to-peer freelance & skill exchange platform**. Full SDLC wi
 <td width="50%" valign="top">
 
 ### 🗺️ Cave Exploration System
-Interactive Python visualization demonstrating **BFS, DFS, Heuristic, and A\*** pathfinding algorithms with real-time rendering.
+Interactive Python visualizer demonstrating **BFS, DFS, Heuristic, and A\*** pathfinding algorithms with real-time step-by-step animation and full algorithm comparison.
 
 `Python` `Tkinter` `Matplotlib` `Heapq` `BFS` `DFS` `A*`
 
@@ -141,8 +151,8 @@ Automated weekly reporting for **200+ international clients** using Python, Pand
 
 ## 💼 Work Experience
 
-### 🟢 Freelance Digital Marketer & Graphics Designer — Fiverr `Apr 2023 – Present`
-> Remote · International Clients
+### 🟢 Freelance Digital Marketer & Graphics Designer — Fiverr &nbsp; `Apr 2023 – Present`
+> Remote · Level 2 Seller · International Clients
 
 - 🌍 Served **200+ international clients** across multiple industries
 - ⚙️ Automated reporting workflows with Python, Pandas, Google Sheets & Apps Script
@@ -151,7 +161,7 @@ Automated weekly reporting for **200+ international clients** using Python, Pand
 
 ---
 
-### 🔵 Summer Development & Market Analysis Intern — BAJO Digital Ventures `Jun 2024 – Sep 2024`
+### 🔵 Summer Development & Market Analysis Intern — BAJO Digital Ventures &nbsp; `Jun – Sep 2024`
 > JC Buckman · Lahore, Pakistan · On-site
 
 - 📊 Grew client social media engagement by **35%** through targeted content strategies
@@ -160,7 +170,7 @@ Automated weekly reporting for **200+ international clients** using Python, Pand
 
 ---
 
-### 🔵 Marketing Team Member — NASTP Institute of Information Technology `Jun 2024 – Aug 2024`
+### 🔵 Marketing Team Member — NASTP Institute of Information Technology &nbsp; `Jun – Aug 2024`
 > Lahore, Pakistan · Part-time
 
 - 📱 Developed multi-platform content strategies for Instagram, Facebook, and LinkedIn
@@ -171,7 +181,7 @@ Automated weekly reporting for **200+ international clients** using Python, Pand
 ## 🎓 Education
 
 | Degree | Institution | Duration | Grade |
-|--------|------------|----------|-------|
+|--------|-------------|----------|-------|
 | 🎓 BS Computer Science | Air University — NASTP IIT, Lahore | 2024 – Present | **GPA: 3.44 / 4.0** |
 | 📘 Intermediate in CS (ICS) | Punjab Group of Colleges, Lahore | 2022 – 2024 | **Grade: A** |
 
@@ -188,7 +198,7 @@ Automated weekly reporting for **200+ international clients** using Python, Pand
 
 ```
 🧠  Advanced LLMs & Generative AI (OpenAI API, Prompt Engineering)
-🔬  Computer Vision — GANs, Image Synthesis
+🔬  Computer Vision — GANs & Image Synthesis
 📦  MLOps & Model Deployment
 🌐  Full-Stack AI Applications
 🔐  Cybersecurity Fundamentals
@@ -197,7 +207,7 @@ Automated weekly reporting for **200+ international clients** using Python, Pand
 
 ---
 
-## 🏆 Highlights
+## 🏆 Key Highlights
 
 <div align="center">
 
@@ -223,7 +233,7 @@ Automated weekly reporting for **200+ international clients** using Python, Pand
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/billallasif)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://billallasif.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c6af7?style=for-the-badge&logo=vercel&logoColor=white)](https://billallasif.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbasif1234@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/billallasif)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BILAL-ASIF-github)
