@@ -182,7 +182,7 @@ Automated weekly reporting for **200+ international clients** using Python, Pand
 
 | Degree | Institution | Duration | Grade |
 |--------|-------------|----------|-------|
-| 🎓 BS Computer Science | Air University — NASTP IIT, Lahore | 2024 – Present | **GPA: 3.44 / 4.0** |
+| 🎓 BS Computer Science | Air University — NASTP IIT, Lahore | 2024 – Present | **GPA: 3.46 / 4.0** |
 | 📘 Intermediate in CS (ICS) | Punjab Group of Colleges, Lahore | 2022 – 2024 | **Grade: A** |
 
 **Leadership:**
