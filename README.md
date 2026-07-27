@@ -213,7 +213,7 @@ Automated weekly reporting for **200+ international clients** using Python, Pand
 
 | 🌍 200+ International Clients | ✅ Level 2 Fiverr Seller | 📈 35% Engagement Growth |
 |:---:|:---:|:---:|
-| 🤖 LLMs & GenAI Projects | 🎓 GPA 3.44 / 4.0 | 🏗️ Microservices Architecture |
+| 🤖 LLMs & GenAI Projects | 🎓 GPA 3.46 / 4.0 | 🏗️ Microservices Architecture |
 
 </div>
 
