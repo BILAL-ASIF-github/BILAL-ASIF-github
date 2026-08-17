@@ -23,14 +23,14 @@ class BilalAsif:
         self.name       = "Muhammad Bilal Asif"
         self.role       = ["AI/ML Engineer", "Digital Marketer", "Graphics Designer"]
         self.university = "Air University — NASTP IIT, Lahore (2024–Present)"
-        self.gpa        = 3.44 / 4.0
+        self.cgpa        = 3.46 / 4.0
         self.clients    = "200+ international"
         self.building   = "Per Aspera — multi-services tech company 🚀"
         self.contact    = "bbasif1234@gmail.com"
 
     def summary(self):
         return {
-            "expertise":   ["PyTorch", "LLMs", "GenAI", "Computer Vision"],
+            "expertise":   ["Cloud", "LLMs", "GenAI", "Computer Vision"],
             "experience":  "4+ years freelancing",
             "focus":       "tech × creativity × business",
         }
