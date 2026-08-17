@@ -241,13 +241,3 @@ Automated weekly reporting for **200+ international clients** using Python, Pand
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BILAL-ASIF-github)
 
 </div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
-
-*⚡ Curious · Passionate · Multi-tasker · Building, Learning & Growing Every Day*
-
-</div>
