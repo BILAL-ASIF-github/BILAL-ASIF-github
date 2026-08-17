@@ -1,8 +1,10 @@
-<div align="center">
 
-<!-- ─── HEADER WAVE ─── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Bilal%20Asif&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20Digital%20Marketing%20Specialist%20%7C%20CS%20Student&descAlignY=58&descSize=16" />
-
+# MUHAMMAD BILAL ASIF
+ 
+**AI/ML Engineer · Full-Stack Developer · Founder, Per Aspera**
+ 
+<sub>Lahore, Pakistan</sub>
+ 
 <!-- ─── SOCIAL BADGES ─── -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-billallasif-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/billallasif)
 [![Portfolio](https://img.shields.io/badge/Portfolio-billallasif.vercel.app-7c6af7?style=for-the-badge&logo=vercel&logoColor=white)](https://billallasif.vercel.app)
