@@ -1,7 +1,7 @@
 
 # MUHAMMAD BILAL ASIF
  
-**AI/ML · Cloud/Devops · Full-Stack Developer · Founder, Per Aspera**
+**AI/ML · Cloud/Devops · Developer · Founder, Per Aspera**
  
 <sub>Lahore, Pakistan</sub>
  
